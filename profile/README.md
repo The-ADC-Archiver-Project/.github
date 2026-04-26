@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/The-ADC-Archiver-Project/Assets/refs/heads/main/banner/adc%20org%20banner.jpg" align="center" alt="ADC Banner" >
+<img src="https://raw.githubusercontent.com/The-ADC-Archiver-Project/Assets/refs/heads/main/banner/banner%20org.webp" align="center" alt="ADC Banner" >
 
 <br>
 
@@ -28,4 +28,4 @@ You can contribute to the ADC Archiver Project by forking the [canary repository
 
 You can report a bug by opening an issue on the [main repository](https://github.com/Mealman1551/ArchivedDataCodec/issues).
 
-###### &copy; 2026 - The ADC Archiver Project
+###### &copy; 2026 - 2024 - The ADC Archiver Project
