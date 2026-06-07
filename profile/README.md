@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/The-ADC-Archiver-Project/Assets/refs/heads/main/banner/banner%20org.webp" align="center" alt="ADC Banner" >
+<img src="https://raw.githubusercontent.com/The-ADC-Archiver-Project/Assets/refs/heads/main/banner/borealis%20banner.jpg" align="center" alt="ADC Banner" >
 
 <br>
 
